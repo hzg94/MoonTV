@@ -81,14 +81,9 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    ,
     "qgbaiduyun": {
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "name": "百度云资源"
-    },
-    "qgwujin": {
-      "api": "https://api.wujinapi.com/api.php/provide/vod/?ac=list",
-      "name": "百度云资源资源"
     },
     "qgheimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod/",
